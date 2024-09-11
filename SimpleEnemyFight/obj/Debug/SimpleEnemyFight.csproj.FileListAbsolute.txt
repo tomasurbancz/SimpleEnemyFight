@@ -1,0 +1,7 @@
+C:\Users\tomas.urban\source\repos\SimpleEnemyFight\SimpleEnemyFight\bin\Debug\SimpleEnemyFight.exe.config
+C:\Users\tomas.urban\source\repos\SimpleEnemyFight\SimpleEnemyFight\bin\Debug\SimpleEnemyFight.exe
+C:\Users\tomas.urban\source\repos\SimpleEnemyFight\SimpleEnemyFight\bin\Debug\SimpleEnemyFight.pdb
+C:\Users\tomas.urban\source\repos\SimpleEnemyFight\SimpleEnemyFight\obj\Debug\SimpleEnemyFight.csproj.AssemblyReference.cache
+C:\Users\tomas.urban\source\repos\SimpleEnemyFight\SimpleEnemyFight\obj\Debug\SimpleEnemyFight.csproj.CoreCompileInputs.cache
+C:\Users\tomas.urban\source\repos\SimpleEnemyFight\SimpleEnemyFight\obj\Debug\SimpleEnemyFight.exe
+C:\Users\tomas.urban\source\repos\SimpleEnemyFight\SimpleEnemyFight\obj\Debug\SimpleEnemyFight.pdb
